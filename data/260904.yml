@@ -7,13 +7,13 @@ about:
   head: 9d730c0
   archived: false
   latestVersion: 0.19.2
-  collectedAt: 2026-09-04T19:58:02Z
+  collectedAt: 2026-09-04T20:43:01Z
 timeline:
   created: 2019-06-24
   lastCommit: 2026-09-02
   lastRelease: 2026-03-28
 popularity:
-  star: 32079
+  star: 32080
   watcher: 115
   fork: 568
   release: 62
@@ -84,6 +84,84 @@ total:
   openIssue: 309
   commit: 2180
 ---
+path: /home/runner/.x-repo/github.com/dandavison/delta
+collectedAt: 2026-09-04T20:43:02Z
+loc:
+  Json:
+    code: 41622
+    comments: 0
+    blanks: 0
+    files: 3
+  Rust:
+    code: 25546
+    comments: 1298
+    blanks: 2314
+    files: 82
+  Bash:
+    code: 608
+    comments: 39
+    blanks: 78
+    files: 18
+  Sh:
+    code: 142
+    comments: 11
+    blanks: 23
+    files: 1
+  Zsh:
+    code: 137
+    comments: 1
+    blanks: 6
+    files: 1
+  Fish:
+    code: 106
+    comments: 0
+    blanks: 0
+    files: 1
+  Makefile:
+    code: 86
+    comments: 5
+    blanks: 27
+    files: 4
+  Toml:
+    code: 77
+    comments: 3
+    blanks: 8
+    files: 2
+  Html:
+    code: 17
+    comments: 0
+    blanks: 0
+    files: 1
+  Dockerfile:
+    code: 9
+    comments: 0
+    blanks: 5
+    files: 1
+  Yaml:
+    code: 9
+    comments: 0
+    blanks: 0
+    files: 1
+  Svg:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1724
+    blanks: 686
+    files: 44
+  Python:
+    code: 0
+    comments: 4
+    blanks: 0
+    files: 1
+total:
+  code: 95126
+  comments: 3642
+  blanks: 3264
+  files: 161
 ---
 date: "2026-08-24"
 repo:
