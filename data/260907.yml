@@ -5,13 +5,13 @@ about:
   head: 9d730c0
   archived: false
   latestVersion: "0.19.2"
-  collectedAt: 2026-09-07T04:31:44Z
+  collectedAt: 2026-09-07T19:53:21Z
 timeline:
   created: 2019-06-24
   lastCommit: 2026-09-02
   lastRelease: 2026-03-28
 popularity:
-  star: 32100
+  star: 32110
   watcher: 115
   fork: 570
   release: 62
@@ -83,7 +83,7 @@ total:
   commit: 2180
 ---
 path: /home/runner/.x-repo/github.com/dandavison/delta
-collectedAt: 2026-09-07T04:31:46Z
+collectedAt: 2026-09-07T19:53:26Z
 loc:
   Json:
     code: 41622
@@ -288,7 +288,7 @@ checks:
       - 'Warn: 0 commits out of 21 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:31:47+00:00
+  collectedAt: 2026-09-07T19:53:29+00:00
   platform:
     darwin/arm64:
       name:  delta-0.19.2-aarch64-apple-darwin.tar.gz
