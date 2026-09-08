@@ -5,13 +5,13 @@ about:
   head: 9d730c0
   archived: false
   latestVersion: "0.19.2"
-  collectedAt: 2026-09-08T01:55:03Z
+  collectedAt: 2026-09-08T04:28:34Z
 timeline:
   created: 2019-06-24
   lastCommit: 2026-09-02
   lastRelease: 2026-03-28
 popularity:
-  star: 32111
+  star: 32113
   watcher: 115
   fork: 570
   release: 62
@@ -83,7 +83,7 @@ total:
   commit: 2180
 ---
 path: /home/runner/.x-repo/github.com/dandavison/delta
-collectedAt: 2026-09-08T01:55:05Z
+collectedAt: 2026-09-08T04:28:36Z
 loc:
   Json:
     code: 41622
