@@ -12,52 +12,7 @@ A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 x install delta
 ```
 
-## 源代码
-
-- **上游仓库**: <https://github.com/dandavison/delta>
-- **官网**: <https://dandavison.github.io/delta/>
-- **许可证**: MIT
-
-## 发布
-
-- **最新版本**: `0.19.2` (2026-03-28)
-- **最近提交**: 2026-09-02
-- **Release 含资产**: 12 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [delta-0.19.2-aarch64-apple-darwin.tar.gz](https://github.com/dandavison/delta/releases/download/0.19.2/delta-0.19.2-aarch64-apple-darwin.tar.gz) | 2.9 MiB | `native/darwin/arm64` |
-| [delta-0.19.2-aarch64-unknown-linux-gnu.tar.gz](https://github.com/dandavison/delta/releases/download/0.19.2/delta-0.19.2-aarch64-unknown-linux-gnu.tar.gz) | 3.0 MiB | `native/linux/arm64/glibc` |
-| [delta-0.19.2-arm-unknown-linux-gnueabihf.tar.gz](https://github.com/dandavison/delta/releases/download/0.19.2/delta-0.19.2-arm-unknown-linux-gnueabihf.tar.gz) | 3.0 MiB | `native/linux/arm/glibc` |
-| [delta-0.19.2-i686-unknown-linux-gnu.tar.gz](https://github.com/dandavison/delta/releases/download/0.19.2/delta-0.19.2-i686-unknown-linux-gnu.tar.gz) | 3.4 MiB | `native/linux/x86/glibc` |
-| [delta-0.19.2-x86_64-pc-windows-msvc.zip](https://github.com/dandavison/delta/releases/download/0.19.2/delta-0.19.2-x86_64-pc-windows-msvc.zip) | 3.3 MiB | `native/win/x64` |
-| [delta-0.19.2-x86_64-unknown-linux-gnu.tar.gz](https://github.com/dandavison/delta/releases/download/0.19.2/delta-0.19.2-x86_64-unknown-linux-gnu.tar.gz) | 3.2 MiB | `native/linux/x64/glibc` |
-| [delta-0.19.2-x86_64-unknown-linux-musl.tar.gz](https://github.com/dandavison/delta/releases/download/0.19.2/delta-0.19.2-x86_64-unknown-linux-musl.tar.gz) | 3.2 MiB | `native/linux/x64/musl` |
-| [git-delta-musl_0.19.2_amd64.deb](https://github.com/dandavison/delta/releases/download/0.19.2/git-delta-musl_0.19.2_amd64.deb) | 2.6 MiB | `runtime/deb/amd64` |
-| [git-delta_0.19.2_amd64.deb](https://github.com/dandavison/delta/releases/download/0.19.2/git-delta_0.19.2_amd64.deb) | 2.5 MiB | `runtime/deb/amd64` |
-| [git-delta_0.19.2_arm64.deb](https://github.com/dandavison/delta/releases/download/0.19.2/git-delta_0.19.2_arm64.deb) | 2.3 MiB | `runtime/deb/arm64` |
-| [git-delta_0.19.2_armhf.deb](https://github.com/dandavison/delta/releases/download/0.19.2/git-delta_0.19.2_armhf.deb) | 2.3 MiB | `runtime/deb/armhf` |
-| [git-delta_0.19.2_i386.deb](https://github.com/dandavison/delta/releases/download/0.19.2/git-delta_0.19.2_i386.deb) | 2.7 MiB | `runtime/deb/i386` |
-
-## 流行度
-
-- **Star**: 32,139 · **Fork**: 572 · **开放 issue**: 934 · **贡献者**: 153
-
-## 累计统计
-
-- **发布数**: 62 · **已合并 PR**: 618 · **开放 PR**: 127 · **已关闭 issue**: 624 · **开放 issue**: 310 · **提交数**: 2180
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 1 | 12 | 0 | 5 | 1 |
-| 90d | 2026-06-12 | 0 | 3 | 34 | 1 | 17 | 3 |
-| 360d | 2025-09-15 | 3 | 15 | 71 | 20 | 48 | 26 |
-
-## 代码规模
+## 代码洞察
 
 合计: **68,360** 行代码（覆盖前 5 种语言、共 **105** 个文件）。
 
@@ -79,6 +34,54 @@ x install delta
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
+## 源代码
+
+- **上游仓库**: <https://github.com/dandavison/delta>
+- **官网**: <https://dandavison.github.io/delta/>
+- **许可证**: MIT
+
+## 发布
+
+- **最新版本**: `0.19.2` (2026-03-28)
+- **最近提交**: 2026-09-02
+- **Release 含资产**: 12 个
+
+## 流行度
+
+- **Star**: 32,140 · **Fork**: 572 · **开放 issue**: 934 · **贡献者**: 153
+
+## 累计统计
+
+- **发布数**: 62 · **已合并 PR**: 618 · **开放 PR**: 127 · **已关闭 issue**: 624 · **开放 issue**: 310 · **提交数**: 2180
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 1 | 12 | 0 | 5 | 1 |
+| last60d | 2026-07-12 | 0 | 3 | 29 | 1 | 9 | 3 |
+| 90d | 2026-06-12 | 0 | 3 | 34 | 1 | 17 | 3 |
+| last180d | 2026-03-14 | 3 | 5 | 53 | 6 | 30 | 13 |
+| 360d | 2025-09-15 | 3 | 15 | 71 | 20 | 48 | 26 |
+| last720d | 2024-09-20 | 3 | 45 | 96 | 50 | 91 | 68 |
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [delta-0.19.2-aarch64-apple-darwin.tar.gz](https://github.com/dandavison/delta/releases/download/0.19.2/delta-0.19.2-aarch64-apple-darwin.tar.gz) | 2.9 MiB | `native/darwin/arm64` |
+| [delta-0.19.2-aarch64-unknown-linux-gnu.tar.gz](https://github.com/dandavison/delta/releases/download/0.19.2/delta-0.19.2-aarch64-unknown-linux-gnu.tar.gz) | 3.0 MiB | `native/linux/arm64/glibc` |
+| [delta-0.19.2-arm-unknown-linux-gnueabihf.tar.gz](https://github.com/dandavison/delta/releases/download/0.19.2/delta-0.19.2-arm-unknown-linux-gnueabihf.tar.gz) | 3.0 MiB | `native/linux/arm/glibc` |
+| [delta-0.19.2-i686-unknown-linux-gnu.tar.gz](https://github.com/dandavison/delta/releases/download/0.19.2/delta-0.19.2-i686-unknown-linux-gnu.tar.gz) | 3.4 MiB | `native/linux/x86/glibc` |
+| [delta-0.19.2-x86_64-pc-windows-msvc.zip](https://github.com/dandavison/delta/releases/download/0.19.2/delta-0.19.2-x86_64-pc-windows-msvc.zip) | 3.3 MiB | `native/win/x64` |
+| [delta-0.19.2-x86_64-unknown-linux-gnu.tar.gz](https://github.com/dandavison/delta/releases/download/0.19.2/delta-0.19.2-x86_64-unknown-linux-gnu.tar.gz) | 3.2 MiB | `native/linux/x64/glibc` |
+| [delta-0.19.2-x86_64-unknown-linux-musl.tar.gz](https://github.com/dandavison/delta/releases/download/0.19.2/delta-0.19.2-x86_64-unknown-linux-musl.tar.gz) | 3.2 MiB | `native/linux/x64/musl` |
+| [git-delta-musl_0.19.2_amd64.deb](https://github.com/dandavison/delta/releases/download/0.19.2/git-delta-musl_0.19.2_amd64.deb) | 2.6 MiB | `runtime/deb/amd64` |
+| [git-delta_0.19.2_amd64.deb](https://github.com/dandavison/delta/releases/download/0.19.2/git-delta_0.19.2_amd64.deb) | 2.5 MiB | `runtime/deb/amd64` |
+| [git-delta_0.19.2_arm64.deb](https://github.com/dandavison/delta/releases/download/0.19.2/git-delta_0.19.2_arm64.deb) | 2.3 MiB | `runtime/deb/arm64` |
+| [git-delta_0.19.2_armhf.deb](https://github.com/dandavison/delta/releases/download/0.19.2/git-delta_0.19.2_armhf.deb) | 2.3 MiB | `runtime/deb/armhf` |
+| [git-delta_0.19.2_i386.deb](https://github.com/dandavison/delta/releases/download/0.19.2/git-delta_0.19.2_i386.deb) | 2.7 MiB | `runtime/deb/i386` |
+
 ## 改进这些数据
 
 delta 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `delta` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -88,4 +91,4 @@ delta 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:21:45Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:03:02Z._
