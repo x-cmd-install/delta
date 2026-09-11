@@ -7,7 +7,7 @@ about:
   latestVersion: "0.19.2"
   latestRelease: "0.19.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:41:11Z
+  collectedAt: 2026-09-11T20:17:56Z
 timeline:
   created: 2019-06-24
   lastCommit: 2026-09-02
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-03-28
   lastPrerelease: 
 popularity:
-  star: 32143
+  star: 32153
   watcher: 115
   fork: 572
   release: 62
   contributor: 153
-  pullRequest: 1154
+  pullRequest: 1155
   issue: 934
 language:
   Rust: 1042590
@@ -34,7 +34,7 @@ recent:
     since: 2026-08-12
     release: 0
     mergedPR: 1
-    openPR: 12
+    openPR: 13
     closedIssue: 0
     openIssue: 5
     commit: 1
@@ -42,7 +42,7 @@ recent:
     since: 2026-07-13
     release: 0
     mergedPR: 3
-    openPR: 29
+    openPR: 30
     closedIssue: 1
     openIssue: 9
     commit: 3
@@ -50,7 +50,7 @@ recent:
     since: 2026-06-13
     release: 0
     mergedPR: 3
-    openPR: 34
+    openPR: 35
     closedIssue: 1
     openIssue: 17
     commit: 3
@@ -58,7 +58,7 @@ recent:
     since: 2026-03-15
     release: 3
     mergedPR: 5
-    openPR: 53
+    openPR: 54
     closedIssue: 6
     openIssue: 30
     commit: 13
@@ -66,7 +66,7 @@ recent:
     since: 2025-09-16
     release: 3
     mergedPR: 15
-    openPR: 70
+    openPR: 71
     closedIssue: 20
     openIssue: 47
     commit: 26
@@ -74,20 +74,20 @@ recent:
     since: 2024-09-21
     release: 3
     mergedPR: 44
-    openPR: 96
+    openPR: 97
     closedIssue: 50
     openIssue: 91
     commit: 68
 total:
   release: 62
   mergedPR: 618
-  openPR: 127
+  openPR: 128
   closedIssue: 624
   openIssue: 310
   commit: 2180
 ---
 path: /home/runner/.x-repo/github.com/dandavison/delta
-collectedAt: 2026-09-11T04:41:15Z
+collectedAt: 2026-09-11T20:18:00Z
 loc:
   Json:
     code: 41622
