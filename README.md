@@ -14,12 +14,12 @@ x install delta
 
 ## Code insight
 
-Total: **68,391** lines of code across **105** files in the top 5 languages.
+Total: **69,344** lines of code across **106** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 41,622 | 0 | 0 | 3 |
-| Rust | 25,577 | 1,298 | 2,319 | 82 |
+| Rust | 26,530 | 1,425 | 2,395 | 83 |
 | Bash | 608 | 39 | 78 | 18 |
 | Sh | 142 | 11 | 23 | 1 |
 | Zsh | 137 | 1 | 6 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.19.2` (2026-03-28)
-- **Last commit**: 2026-09-19
+- **Last commit**: 2026-10-04
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 32,405 · **Forks**: 589 · **Open issues**: 943 · **Contributors**: 154
+- **Stars**: 32,411 · **Forks**: 589 · **Open issues**: 943 · **Contributors**: 154
 
 ## Totals (cumulative)
 
-- **Releases**: 62 · **Merged PRs**: 619 · **Open PRs**: 147 · **Closed issues**: 625 · **Open issues**: 318 · **Commits**: 2181
+- **Releases**: 62 · **Merged PRs**: 622 · **Open PRs**: 148 · **Closed issues**: 627 · **Open issues**: 316 · **Commits**: 2184
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 0 | 1 | 22 | 1 | 9 | 1 |
-| last60d | 2026-08-04 | 0 | 2 | 34 | 1 | 14 | 2 |
-| 90d | 2026-07-05 | 0 | 4 | 48 | 2 | 18 | 4 |
-| last180d | 2026-04-06 | 0 | 4 | 67 | 5 | 34 | 4 |
-| 360d | 2025-10-08 | 3 | 15 | 88 | 20 | 52 | 26 |
-| last720d | 2024-10-13 | 3 | 44 | 116 | 48 | 96 | 67 |
+| 30d | 2026-09-04 | 0 | 3 | 24 | 1 | 9 | 4 |
+| last60d | 2026-08-05 | 0 | 4 | 36 | 1 | 14 | 5 |
+| 90d | 2026-07-06 | 0 | 6 | 50 | 2 | 18 | 7 |
+| last180d | 2026-04-07 | 0 | 7 | 68 | 6 | 33 | 7 |
+| 360d | 2025-10-09 | 3 | 18 | 89 | 21 | 51 | 29 |
+| last720d | 2024-10-14 | 3 | 46 | 117 | 49 | 94 | 70 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for delta lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:10:55Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T05:44:30Z._
