@@ -24,6 +24,16 @@ Total: **70,844** lines of code across **107** files in the top 5 languages.
 | Sh | 142 | 11 | 23 | 1 |
 | Zsh | 137 | 1 | 6 | 1 |
 
+## OpenSSF Scorecard
+
+Overall score: **4.5 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (3/10) — Found 9/30 approved changesets -- score normalized to 3
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## Source
 
 - **Upstream**: <https://github.com/dandavison/delta>
@@ -33,27 +43,27 @@ Total: **70,844** lines of code across **107** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.20.1` (2026-10-04)
-- **Last commit**: 2026-11-09
+- **Last commit**: 2026-11-10
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 32,704 · **Forks**: 618 · **Open issues**: 953 · **Contributors**: 156
+- **Stars**: 32,716 · **Forks**: 618 · **Open issues**: 953 · **Contributors**: 157
 
 ## Totals (cumulative)
 
-- **Releases**: 64 · **Merged PRs**: 626 · **Open PRs**: 179 · **Closed issues**: 631 · **Open issues**: 322 · **Commits**: 2201
+- **Releases**: 64 · **Merged PRs**: 627 · **Open PRs**: 178 · **Closed issues**: 631 · **Open issues**: 322 · **Commits**: 2202
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 3 | 31 | 0 | 8 | 4 |
-| last60d | 2026-09-11 | 2 | 6 | 55 | 2 | 16 | 20 |
-| 90d | 2026-08-12 | 2 | 7 | 67 | 2 | 22 | 21 |
-| last180d | 2026-05-14 | 2 | 10 | 96 | 6 | 36 | 23 |
-| 360d | 2025-11-15 | 5 | 21 | 120 | 22 | 55 | 42 |
-| last720d | 2024-11-20 | 5 | 40 | 143 | 45 | 97 | 71 |
+| 30d | 2026-10-12 | 0 | 4 | 30 | 0 | 8 | 5 |
+| last60d | 2026-09-12 | 2 | 7 | 54 | 2 | 16 | 21 |
+| 90d | 2026-08-13 | 2 | 8 | 66 | 2 | 22 | 22 |
+| last180d | 2026-05-15 | 2 | 11 | 95 | 6 | 36 | 24 |
+| 360d | 2025-11-16 | 5 | 22 | 119 | 22 | 55 | 43 |
+| last720d | 2024-11-21 | 5 | 41 | 142 | 45 | 97 | 70 |
 
 ## Release assets
 
@@ -81,4 +91,4 @@ Install metadata for delta lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:09:38Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:03:13Z._
