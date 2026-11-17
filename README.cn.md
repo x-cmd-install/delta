@@ -26,11 +26,11 @@ x install delta
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.5 / 10**
+总评分: **4.4 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 9/30 approved changesets -- score normalized to 3
+- **Code-Review** (2/10) — Found 8/30 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,22 +48,22 @@ x install delta
 
 ## 流行度
 
-- **Star**: 32,736 · **Fork**: 663 · **开放 issue**: 954 · **贡献者**: 158
+- **Star**: 32,740 · **Fork**: 705 · **开放 issue**: 955 · **贡献者**: 158
 
 ## 累计统计
 
-- **发布数**: 64 · **已合并 PR**: 635 · **开放 PR**: 178 · **已关闭 issue**: 634 · **开放 issue**: 320 · **提交数**: 2212
+- **发布数**: 64 · **已合并 PR**: 635 · **开放 PR**: 181 · **已关闭 issue**: 634 · **开放 issue**: 321 · **提交数**: 2212
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 12 | 23 | 2 | 2 | 15 |
-| last60d | 2026-09-17 | 2 | 15 | 52 | 4 | 15 | 30 |
-| 90d | 2026-08-18 | 2 | 16 | 63 | 4 | 21 | 32 |
-| last180d | 2026-05-20 | 2 | 19 | 95 | 7 | 33 | 34 |
-| 360d | 2025-11-21 | 5 | 27 | 120 | 24 | 53 | 49 |
-| last720d | 2024-11-26 | 5 | 48 | 142 | 47 | 96 | 80 |
+| 30d | 2026-10-18 | 0 | 12 | 18 | 2 | 3 | 15 |
+| last60d | 2026-09-18 | 2 | 15 | 54 | 4 | 16 | 30 |
+| 90d | 2026-08-19 | 2 | 16 | 65 | 4 | 22 | 32 |
+| last180d | 2026-05-21 | 2 | 19 | 97 | 7 | 34 | 34 |
+| 360d | 2025-11-22 | 5 | 27 | 123 | 24 | 53 | 49 |
+| last720d | 2024-11-27 | 5 | 48 | 145 | 47 | 97 | 80 |
 
 ## Release 资产
 
@@ -91,4 +91,4 @@ delta 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T06:22:23Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T08:08:02Z._
