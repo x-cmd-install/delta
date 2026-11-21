@@ -14,15 +14,15 @@ x install delta
 
 ## Code insight
 
-Total: **73,124** lines of code across **112** files in the top 5 languages.
+Total: **76,229** lines of code across **131** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 41,622 | 0 | 0 | 3 |
-| Rust | 30,180 | 1,555 | 2,593 | 87 |
-| Bash | 621 | 44 | 78 | 19 |
-| Sh | 167 | 17 | 24 | 2 |
-| Zsh | 137 | 1 | 6 | 1 |
+| Json | 41,633 | 0 | 0 | 5 |
+| Rust | 31,457 | 1,610 | 2,728 | 98 |
+| Html | 965 | 18 | 136 | 3 |
+| JavaScript | 835 | 69 | 124 | 5 |
+| Bash | 642 | 51 | 82 | 20 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.21.2` (2026-11-19)
-- **Last commit**: 2026-11-19
+- **Last commit**: 2026-11-21
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 32,782 · **Forks**: 741 · **Open issues**: 959 · **Contributors**: 160
+- **Stars**: 32,795 · **Forks**: 742 · **Open issues**: 960 · **Contributors**: 161
 
 ## Totals (cumulative)
 
-- **Releases**: 66 · **Merged PRs**: 640 · **Open PRs**: 180 · **Closed issues**: 639 · **Open issues**: 320 · **Commits**: 2228
+- **Releases**: 66 · **Merged PRs**: 642 · **Open PRs**: 182 · **Closed issues**: 640 · **Open issues**: 320 · **Commits**: 2230
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 2 | 17 | 16 | 5 | 4 | 31 |
-| last60d | 2026-09-21 | 4 | 19 | 50 | 6 | 17 | 46 |
-| 90d | 2026-08-22 | 4 | 21 | 65 | 7 | 22 | 48 |
-| last180d | 2026-05-24 | 4 | 24 | 96 | 10 | 35 | 50 |
-| 360d | 2025-11-25 | 7 | 30 | 121 | 27 | 53 | 65 |
-| last720d | 2024-11-30 | 7 | 52 | 144 | 51 | 97 | 92 |
+| 30d | 2026-10-22 | 2 | 18 | 19 | 5 | 5 | 33 |
+| last60d | 2026-09-22 | 4 | 20 | 53 | 6 | 18 | 48 |
+| 90d | 2026-08-23 | 4 | 22 | 68 | 7 | 23 | 50 |
+| last180d | 2026-05-25 | 4 | 25 | 98 | 10 | 36 | 52 |
+| 360d | 2025-11-26 | 7 | 32 | 123 | 27 | 54 | 67 |
+| last720d | 2024-12-01 | 7 | 54 | 146 | 50 | 98 | 94 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for delta lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:37:51Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:06:37Z._
