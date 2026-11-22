@@ -14,12 +14,12 @@ x install delta
 
 ## Code insight
 
-Total: **76,229** lines of code across **131** files in the top 5 languages.
+Total: **76,314** lines of code across **131** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 41,633 | 0 | 0 | 5 |
-| Rust | 31,457 | 1,610 | 2,728 | 98 |
+| Rust | 31,542 | 1,613 | 2,733 | 98 |
 | Html | 965 | 18 | 136 | 3 |
 | JavaScript | 835 | 69 | 124 | 5 |
 | Bash | 642 | 51 | 82 | 20 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.21.2` (2026-11-19)
-- **Last commit**: 2026-11-21
+- **Last commit**: 2026-11-22
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 32,795 · **Forks**: 742 · **Open issues**: 960 · **Contributors**: 161
+- **Stars**: 32,802 · **Forks**: 741 · **Open issues**: 960 · **Contributors**: 161
 
 ## Totals (cumulative)
 
-- **Releases**: 66 · **Merged PRs**: 642 · **Open PRs**: 182 · **Closed issues**: 640 · **Open issues**: 320 · **Commits**: 2230
+- **Releases**: 66 · **Merged PRs**: 642 · **Open PRs**: 181 · **Closed issues**: 640 · **Open issues**: 320 · **Commits**: 2234
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 2 | 18 | 19 | 5 | 5 | 33 |
-| last60d | 2026-09-22 | 4 | 20 | 53 | 6 | 18 | 48 |
-| 90d | 2026-08-23 | 4 | 22 | 68 | 7 | 23 | 50 |
-| last180d | 2026-05-25 | 4 | 25 | 98 | 10 | 36 | 52 |
-| 360d | 2025-11-26 | 7 | 32 | 123 | 27 | 54 | 67 |
-| last720d | 2024-12-01 | 7 | 54 | 146 | 50 | 98 | 94 |
+| 30d | 2026-10-23 | 2 | 18 | 19 | 5 | 5 | 37 |
+| last60d | 2026-09-23 | 4 | 20 | 52 | 6 | 18 | 52 |
+| 90d | 2026-08-24 | 4 | 22 | 66 | 7 | 23 | 54 |
+| last180d | 2026-05-26 | 4 | 25 | 97 | 10 | 36 | 56 |
+| 360d | 2025-11-27 | 7 | 32 | 122 | 27 | 54 | 71 |
+| last720d | 2024-12-02 | 7 | 53 | 145 | 50 | 98 | 98 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for delta lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:06:37Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:08:52Z._
