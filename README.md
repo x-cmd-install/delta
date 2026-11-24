@@ -26,11 +26,11 @@ Total: **76,518** lines of code across **131** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.4 / 10**
+Overall score: **4.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 8/30 approved changesets -- score normalized to 2
+- **Code-Review** (1/10) — Found 5/30 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 32,815 · **Forks**: 745 · **Open issues**: 960 · **Contributors**: 162
+- **Stars**: 32,816 · **Forks**: 742 · **Open issues**: 960 · **Contributors**: 162
 
 ## Totals (cumulative)
 
-- **Releases**: 67 · **Merged PRs**: 644 · **Open PRs**: 183 · **Closed issues**: 640 · **Open issues**: 320 · **Commits**: 2240
+- **Releases**: 67 · **Merged PRs**: 644 · **Open PRs**: 182 · **Closed issues**: 641 · **Open issues**: 319 · **Commits**: 2240
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 3 | 20 | 20 | 5 | 5 | 43 |
-| last60d | 2026-09-24 | 5 | 22 | 51 | 6 | 16 | 58 |
-| 90d | 2026-08-25 | 5 | 24 | 68 | 7 | 23 | 60 |
-| last180d | 2026-05-27 | 5 | 27 | 99 | 10 | 35 | 62 |
-| 360d | 2025-11-28 | 8 | 34 | 124 | 27 | 54 | 77 |
-| last720d | 2024-12-03 | 8 | 55 | 147 | 50 | 98 | 103 |
+| 30d | 2026-10-25 | 3 | 20 | 18 | 6 | 4 | 43 |
+| last60d | 2026-09-25 | 5 | 22 | 50 | 7 | 15 | 58 |
+| 90d | 2026-08-26 | 5 | 24 | 67 | 8 | 22 | 60 |
+| last180d | 2026-05-28 | 5 | 27 | 97 | 11 | 34 | 62 |
+| 360d | 2025-11-29 | 8 | 34 | 123 | 28 | 53 | 77 |
+| last720d | 2024-12-04 | 8 | 55 | 146 | 50 | 97 | 103 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for delta lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:29:35Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T09:54:42Z._
