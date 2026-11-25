@@ -14,12 +14,12 @@ x install delta
 
 ## Code insight
 
-Total: **76,518** lines of code across **131** files in the top 5 languages.
+Total: **76,542** lines of code across **131** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 41,633 | 0 | 0 | 5 |
-| Rust | 31,746 | 1,619 | 2,750 | 98 |
+| Rust | 31,770 | 1,621 | 2,753 | 98 |
 | Html | 965 | 18 | 136 | 3 |
 | JavaScript | 835 | 69 | 124 | 5 |
 | Bash | 642 | 51 | 82 | 20 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.22.0` (2026-11-23)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-25
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 32,816 · **Forks**: 742 · **Open issues**: 960 · **Contributors**: 162
+- **Stars**: 32,828 · **Forks**: 742 · **Open issues**: 961 · **Contributors**: 162
 
 ## Totals (cumulative)
 
-- **Releases**: 67 · **Merged PRs**: 644 · **Open PRs**: 182 · **Closed issues**: 641 · **Open issues**: 319 · **Commits**: 2240
+- **Releases**: 67 · **Merged PRs**: 644 · **Open PRs**: 182 · **Closed issues**: 641 · **Open issues**: 320 · **Commits**: 2244
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 3 | 20 | 18 | 6 | 4 | 43 |
-| last60d | 2026-09-25 | 5 | 22 | 50 | 7 | 15 | 58 |
-| 90d | 2026-08-26 | 5 | 24 | 67 | 8 | 22 | 60 |
-| last180d | 2026-05-28 | 5 | 27 | 97 | 11 | 34 | 62 |
-| 360d | 2025-11-29 | 8 | 34 | 123 | 28 | 53 | 77 |
-| last720d | 2024-12-04 | 8 | 55 | 146 | 50 | 97 | 103 |
+| 30d | 2026-10-26 | 3 | 19 | 18 | 6 | 5 | 47 |
+| last60d | 2026-09-26 | 5 | 22 | 49 | 7 | 16 | 62 |
+| 90d | 2026-08-27 | 5 | 24 | 67 | 8 | 23 | 64 |
+| last180d | 2026-05-29 | 5 | 27 | 97 | 11 | 35 | 66 |
+| 360d | 2025-11-30 | 8 | 34 | 123 | 28 | 54 | 81 |
+| last720d | 2024-12-05 | 8 | 55 | 146 | 50 | 98 | 107 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for delta lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:54:42Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:24:39Z._
