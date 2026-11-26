@@ -14,12 +14,12 @@ x install delta
 
 ## Code insight
 
-Total: **76,542** lines of code across **131** files in the top 5 languages.
+Total: **76,797** lines of code across **131** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 41,633 | 0 | 0 | 5 |
-| Rust | 31,770 | 1,621 | 2,753 | 98 |
+| Rust | 32,025 | 1,636 | 2,770 | 98 |
 | Html | 965 | 18 | 136 | 3 |
 | JavaScript | 835 | 69 | 124 | 5 |
 | Bash | 642 | 51 | 82 | 20 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 32,828 · **Forks**: 742 · **Open issues**: 961 · **Contributors**: 162
+- **Stars**: 32,840 · **Forks**: 744 · **Open issues**: 961 · **Contributors**: 162
 
 ## Totals (cumulative)
 
-- **Releases**: 67 · **Merged PRs**: 644 · **Open PRs**: 182 · **Closed issues**: 641 · **Open issues**: 320 · **Commits**: 2244
+- **Releases**: 67 · **Merged PRs**: 645 · **Open PRs**: 182 · **Closed issues**: 641 · **Open issues**: 320 · **Commits**: 2246
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 3 | 19 | 18 | 6 | 5 | 47 |
-| last60d | 2026-09-26 | 5 | 22 | 49 | 7 | 16 | 62 |
-| 90d | 2026-08-27 | 5 | 24 | 67 | 8 | 23 | 64 |
-| last180d | 2026-05-29 | 5 | 27 | 97 | 11 | 35 | 66 |
-| 360d | 2025-11-30 | 8 | 34 | 123 | 28 | 54 | 81 |
-| last720d | 2024-12-05 | 8 | 55 | 146 | 50 | 98 | 107 |
+| 30d | 2026-10-27 | 3 | 20 | 18 | 6 | 5 | 0 |
+| last60d | 2026-09-27 | 5 | 23 | 49 | 7 | 16 | 0 |
+| 90d | 2026-08-28 | 5 | 25 | 67 | 8 | 23 | 0 |
+| last180d | 2026-05-30 | 5 | 28 | 96 | 11 | 35 | 0 |
+| 360d | 2025-12-01 | 8 | 35 | 123 | 28 | 54 | 0 |
+| last720d | 2024-12-06 | 8 | 56 | 146 | 50 | 98 | 109 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for delta lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:24:39Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:08:55Z._
