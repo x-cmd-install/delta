@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 32,840 · **Forks**: 744 · **Open issues**: 961 · **Contributors**: 162
+- **Stars**: 32,868 · **Forks**: 755 · **Open issues**: 963 · **Contributors**: 162
 
 ## Totals (cumulative)
 
-- **Releases**: 67 · **Merged PRs**: 645 · **Open PRs**: 182 · **Closed issues**: 641 · **Open issues**: 320 · **Commits**: 2246
+- **Releases**: 67 · **Merged PRs**: 645 · **Open PRs**: 184 · **Closed issues**: 641 · **Open issues**: 322 · **Commits**: 2246
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 3 | 20 | 18 | 6 | 5 | 0 |
-| last60d | 2026-09-27 | 5 | 23 | 49 | 7 | 16 | 0 |
-| 90d | 2026-08-28 | 5 | 25 | 67 | 8 | 23 | 0 |
-| last180d | 2026-05-30 | 5 | 28 | 96 | 11 | 35 | 0 |
-| 360d | 2025-12-01 | 8 | 35 | 123 | 28 | 54 | 0 |
-| last720d | 2024-12-06 | 8 | 56 | 146 | 50 | 98 | 109 |
+| 30d | 2026-10-28 | 3 | 20 | 20 | 6 | 7 | 0 |
+| last60d | 2026-09-28 | 5 | 23 | 51 | 7 | 17 | 0 |
+| 90d | 2026-08-29 | 5 | 25 | 68 | 8 | 23 | 0 |
+| last180d | 2026-05-31 | 5 | 28 | 98 | 11 | 37 | 0 |
+| 360d | 2025-12-02 | 8 | 35 | 125 | 28 | 56 | 0 |
+| last720d | 2024-12-07 | 8 | 56 | 148 | 50 | 100 | 109 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for delta lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:08:55Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:33:00Z._
