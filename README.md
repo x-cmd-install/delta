@@ -14,7 +14,7 @@ x install delta
 
 ## Code insight
 
-Total: **76,797** lines of code across **131** files in the top 5 languages.
+Total: **76,819** lines of code across **131** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.22.0` (2026-11-23)
-- **Last commit**: 2026-11-25
+- **Last commit**: 2026-11-27
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 32,868 · **Forks**: 755 · **Open issues**: 963 · **Contributors**: 162
+- **Stars**: 32,892 · **Forks**: 769 · **Open issues**: 964 · **Contributors**: 162
 
 ## Totals (cumulative)
 
-- **Releases**: 67 · **Merged PRs**: 645 · **Open PRs**: 184 · **Closed issues**: 641 · **Open issues**: 322 · **Commits**: 2246
+- **Releases**: 67 · **Merged PRs**: 646 · **Open PRs**: 185 · **Closed issues**: 642 · **Open issues**: 322 · **Commits**: 2250
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 3 | 20 | 20 | 6 | 7 | 0 |
-| last60d | 2026-09-28 | 5 | 23 | 51 | 7 | 17 | 0 |
-| 90d | 2026-08-29 | 5 | 25 | 68 | 8 | 23 | 0 |
-| last180d | 2026-05-31 | 5 | 28 | 98 | 11 | 37 | 0 |
-| 360d | 2025-12-02 | 8 | 35 | 125 | 28 | 56 | 0 |
-| last720d | 2024-12-07 | 8 | 56 | 148 | 50 | 100 | 109 |
+| 30d | 2026-10-29 | 3 | 21 | 19 | 6 | 8 | 53 |
+| last60d | 2026-09-29 | 5 | 24 | 49 | 7 | 18 | 68 |
+| 90d | 2026-08-30 | 5 | 26 | 67 | 8 | 24 | 70 |
+| last180d | 2026-06-01 | 5 | 29 | 97 | 11 | 38 | 72 |
+| 360d | 2025-12-03 | 8 | 36 | 124 | 28 | 57 | 87 |
+| last720d | 2024-12-08 | 8 | 57 | 147 | 49 | 101 | 113 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for delta lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:33:00Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T07:39:07Z._
